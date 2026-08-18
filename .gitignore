@@ -6,8 +6,9 @@
 *.key
 secrets*
 secrets/
-ACCESS.md #! Repo pubblica, non rimuovere
-AGENTS.md #! Repo pubblica, non rimuovere
+#! Repo pubblica, non rimuovere
+ACCESS.md
+AGENTS.md
 
 # ==================================================
 # Backup e temporanei
