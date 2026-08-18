@@ -1,4 +1,4 @@
-# homelab-config - Documentazione infrastruttura
+# homelab - Documentazione infrastruttura
 
 ## Indice
 
