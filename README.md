@@ -12,11 +12,13 @@
   - [qbittorrent](monday/qbittorrent/README.md) - client torrent
   - [wordpress](monday/wordpress/README.md) - blog di test
   - [template](monday/template/README.md) - template CT/LXC
+- [router](router/README.md) - router/gateway LAN
 - [yesterday](yesterday/pbs/README.md) - PBS e backup
 
 ## Struttura
 
 Ogni macchina (nodo, VM o LXC) ha:
+
 - `README.md` - descrizione pubblica: ruolo, servizi, sicurezza, note
 - `CHANGELOG.md` - storico delle modifiche fatte sulla macchina
 
