@@ -7,7 +7,7 @@ Nodo Proxmox principale dell'homelab.
 - Modello: GMKtec G10
 - CPU: Ryzen 5
 - RAM: 16GB DDR4
-- Storage: 
+- Storage:
   - NVMe ~459GB interno (sistema + dischi VM)
   - SATA ~480GB esterno (storage dati aggiuntivo)
 
@@ -31,6 +31,6 @@ Nodo Proxmox principale dell'homelab.
 - Piano upgrade RAM quando i prezzi calano
 - Backup orari su PBS
 
-## Stato
+## Manutenzione
 
-Ultima verifica: 2026-08-04
+Vedi [CHANGELOG.md](CHANGELOG.md) per la storia del dispositivo.
