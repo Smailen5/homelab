@@ -23,4 +23,4 @@ WordPress di test (TurnKey Linux) su **monday**. Serve per fare pratica con Word
 
 ## Manutenzione
 
-[Changelog](CHANGELOG.md)
+Vedi [CHANGELOG.md](CHANGELOG.md) per la storia del dispositivo.

@@ -15,6 +15,6 @@ API REST del portfolio: backend Express + TypeScript + MongoDB.
 - Progetto: `~/server-portfolio`
 - Rotte principali: GET /api/projects · PUT /api/projects/:id · PUT /api/github/sync
 
-## Stato
+## Manutenzione
 
-Ultima verifica: 2026-08-05
+Vedi [CHANGELOG.md](CHANGELOG.md) per la storia del dispositivo.

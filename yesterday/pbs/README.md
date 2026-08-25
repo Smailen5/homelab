@@ -20,4 +20,4 @@ Proxmox Backup Server: custodisce i backup orari delle VM di **monday**.
 
 ## Manutenzione
 
-[Changelog](CHANGELOG.md)
+Vedi [CHANGELOG.md](CHANGELOG.md) per la storia del dispositivo.

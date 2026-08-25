@@ -21,4 +21,4 @@ Client torrent (qBittorrent) in container LXC (CT 104) ospitato su **monday**, d
 
 ## Manutenzione
 
-- [Changelog](CHANGELOG.md)
+Vedi [CHANGELOG.md](CHANGELOG.md) per la storia del dispositivo.

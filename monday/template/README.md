@@ -15,4 +15,4 @@ CT di template/test (CT 105) su **monday**.
 
 ## Manutenzione
 
-[Changelog](CHANGELOG.md)
+Vedi [CHANGELOG.md](CHANGELOG.md) per la storia del dispositivo.

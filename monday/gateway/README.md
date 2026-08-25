@@ -14,6 +14,6 @@ Reverse proxy e tunnel: instrada il traffico verso le VM/CT interne e pubblica i
 - ⚠️ Tutti i DNS locali puntano qui: NON spostare senza aggiornare DNS Cloudflare → rotte tunnel → upstream NPM → ufw → riserve FritzBox.
 - Espone servizi interni tramite DNS locali e servizi pubblici tramite Cloudflare Tunnel.
 
-## Stato
+## Manutenzione
 
-Ultima verifica: 2026-08-05
+Vedi [CHANGELOG.md](CHANGELOG.md) per la storia del dispositivo.

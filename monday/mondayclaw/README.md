@@ -14,6 +14,6 @@ Agente AI personale (OpenClaw) di code review e DevOps — recensisce le PR e ge
 
 - VM ospitata sul nodo Proxmox `monday`
 
-## Stato
+## Manutenzione
 
-Ultima verifica: 2026-08-05
+Vedi [CHANGELOG.md](CHANGELOG.md) per la storia del dispositivo.
