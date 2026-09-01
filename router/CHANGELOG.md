@@ -1,5 +1,9 @@
 # Changelog — router
 
+## 2026-08-30
+
+- Downtime 15:31–15:56
+
 ## 2026-08-24
 
 - Downtime 15:00–16:00 per cambio contatore elettrico (interessato router e monday)
