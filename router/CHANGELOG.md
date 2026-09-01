@@ -3,6 +3,7 @@
 ## 2026-08-30
 
 - Downtime 15:31–15:56
+- Rilevate anomalie di rete (indagini in corso)
 
 ## 2026-08-24
 
