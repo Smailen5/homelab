@@ -1,5 +1,11 @@
 # Changelog - monday
 
+## 2026-08-30
+
+- Riavvio forzato, monday non era collegato alla rete
+- Downtime 15:31–15:56 per collegarlo al ups
+- Aggiornamento sistema e pulizia
+
 ## 2026-08-25
 
 - Aggiornamento sistema Proxmox e kernel

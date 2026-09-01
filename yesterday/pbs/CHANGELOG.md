@@ -1,5 +1,12 @@
 # Changelog — pbs (yesterday)
 
+## 2026-08-30
+
+- Downtime 15:31-15:56
+- Aggiornamento configurazione bios
+- Sostituzione pila bios
+- Sostituita connessione diretta al UPS
+
 ## 2026-08-25
 
 - Aggiornamento pacchetti e pulizia sistema

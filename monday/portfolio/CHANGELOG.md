@@ -1,5 +1,11 @@
 # Changelog - portfolio
 
+## 2026-08-30
+
+- Downtime 15:31–15:56
+- Aggiornamento kernel
+- Aggiornamento immagini Docker e pulizia
+
 ## 2026-08-25
 
 - Verifica aggiornamenti: sistema già allineato, nessun aggiornamento necessario e pulizia eseguita
