@@ -2,7 +2,7 @@
 
 ## Ruolo
 
-PC di sviluppo usato per amministrare il homelab: editor, terminale e client SSH verso le altre macchine.
+PC di sviluppo usato per amministrare l'homelab: editor, terminale e client SSH verso le altre macchine.
 
 ## Servizi
 
