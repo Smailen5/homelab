@@ -1,5 +1,11 @@
 # Changelog - mondayclaw
 
+## 2026-09-01
+
+- Aggiornamento sistema, kernel 6.12.107-1 e Node.js 24.20.0
+- Rimozione vecchio kernel 6.12.100
+- Riavvio con downtime di circa 1 minuto
+
 ## 2026-08-30
 
 - Downtime 15:31-15:56

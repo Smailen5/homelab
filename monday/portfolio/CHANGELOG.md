@@ -1,5 +1,12 @@
 # Changelog - portfolio
 
+## 2026-09-01
+
+- Aggiornamento sistema e kernel 6.12.107-1
+- Rimozione vecchio kernel 6.12.100
+- Riavvio con downtime di circa 1 minuto
+- Immagini Docker già aggiornate e pulite
+
 ## 2026-08-30
 
 - Downtime 15:31–15:56

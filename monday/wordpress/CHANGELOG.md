@@ -1,5 +1,9 @@
 # Changelog — wordpress
 
+## 2026-09-01
+
+- Verifica aggiornamenti: sistema già allineato, nessun aggiornamento o pulizia necessario
+
 ## 2026-08-25
 
 - Verifica aggiornamenti: sistema già allineato, nessun aggiornamento necessario e pulizia eseguita

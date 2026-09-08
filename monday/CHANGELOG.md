@@ -1,5 +1,9 @@
 # Changelog - monday
 
+## 2026-09-01
+
+- Verifica aggiornamenti: sistema già allineato, nessun aggiornamento o pulizia necessario
+
 ## 2026-08-30
 
 - Riavvio forzato, monday non era collegato alla rete

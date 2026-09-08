@@ -1,5 +1,13 @@
 # Changelog - gateway
 
+## 2026-09-01
+
+- Aggiornamento sistema e kernel 6.12.107-1
+- Rimozione vecchio kernel 6.12.100
+- Riavvio con downtime di circa 1 minuto
+- Aggiornamento immagini Docker (`docker compose pull` e `up -d`)
+- Pulizia immagini Docker (`docker image prune -f`)
+
 ## 2026-08-30
 
 - Downtime 15:31-15:56

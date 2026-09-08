@@ -14,6 +14,7 @@
   - [template](monday/template/README.md) - template CT/LXC
 - [router](router/README.md) - router/gateway LAN
 - [yesterday](yesterday/pbs/README.md) - PBS e backup
+- [workstation](workstation/README.md) - PC di sviluppo
 
 ## Struttura
 
