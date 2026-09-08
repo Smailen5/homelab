@@ -1,5 +1,11 @@
 # Changelog — pbs (yesterday)
 
+## 2026-09-01
+
+- Aggiornamento sistema, kernel Proxmox 7.0.14-14 e ZFS 2.4.4
+- Rimozione vecchio kernel 7.0.14-8
+- Riavvio con downtime di circa 1 minuto
+
 ## 2026-08-30
 
 - Downtime 15:31-15:56
