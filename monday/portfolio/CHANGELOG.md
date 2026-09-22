@@ -1,5 +1,20 @@
 # Changelog - portfolio
 
+## 2026-09-22
+
+- Aggiornamento sistema: 44 pacchetti (base di sistema, Perl/Python, BIND9, curl, toolchain Docker)
+- Aggiornamento immagini Docker (`docker compose pull` e `up -d`) e pulizia (`docker image prune -f`, 1,18 GB recuperati)
+- Pulizia sistema (`apt autoremove --purge` e `apt clean`): nessun pacchetto da rimuovere
+- Verifica post-manutenzione: `systemctl --failed` pulito e servizi esposti raggiungibili
+
+## 2026-09-08
+
+- Aggiornamento piattaforma Docker (CE, containerd, compose, buildx)
+- Aggiornamento immagini Docker (`docker compose pull` e `up -d`)
+- Pulizia immagini Docker (`docker image prune -f`)
+- Pulizia sistema (`apt clean` e `apt autoremove`)
+- Riavvio del nodo monday con downtime di circa 1 minuto
+
 ## 2026-09-01
 
 - Aggiornamento sistema e kernel 6.12.107-1
