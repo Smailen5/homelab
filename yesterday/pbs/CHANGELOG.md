@@ -1,5 +1,21 @@
 # Changelog — pbs (yesterday)
 
+## 2026-09-22
+
+- Aggiornamento sistema: 59 pacchetti, Proxmox Backup Server 4.2.6 e kernel `7.0.14-19`
+- Rimozione vecchio kernel `7.0.14-14` (~1GB liberato)
+- Pulizia sistema (`apt autoremove --purge` e `apt clean`)
+- Riavvio con `init 6` e nuovo kernel attivo
+- Verifica post-manutenzione: kernel `7.0.14-19` attivo, servizi PBS (`proxmox-backup` e `proxmox-backup-proxy`) attivi
+- Il kernel precedente `7.0.14-15` resta installato come fallback
+
+## 2026-09-08
+
+- Aggiornamento kernel Proxmox 7.0.14-15
+- Rimozione vecchio kernel 7.0.14-12 (~1GB liberato)
+- Pulizia sistema (`apt clean` e `apt autoremove`)
+- Riavvio con downtime di circa 1 minuto (nuovo kernel attivo)
+
 ## 2026-09-01
 
 - Aggiornamento sistema, kernel Proxmox 7.0.14-14 e ZFS 2.4.4

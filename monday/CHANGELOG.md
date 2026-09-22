@@ -1,5 +1,22 @@
 # Changelog - monday
 
+## 2026-09-22
+
+- Aggiornamento Proxmox: 88 pacchetti (`pve-manager` 9.2.20, `qemu-server` 9.2.8, `pve-firewall` 6.0.6, suite Ceph 19.2.6-pve4) e kernel `7.0.14-19`
+- Rimozione vecchio kernel `7.0.14-14` (~1GB liberato)
+- Pulizia sistema (`apt autoremove --purge` e `apt clean`)
+- Riavvio del nodo; le VM/CT con avvio automatico sono ripartite
+- Verifica post-manutenzione: kernel `7.0.14-19` attivo, VM/CT funzionanti e servizi esposti raggiungibili
+- I kernel `6.17.x` restano installati come fallback di stabilità sulla serie `7.x`
+
+## 2026-09-08
+
+- Aggiornamento Proxmox: kernel 7.0.14-15, `pve-container` e firmware EDK2
+- Rimozione vecchio kernel 7.0.14-12 (~1GB liberato)
+- Pulizia sistema (`apt clean` e `apt autoremove`)
+- Riavvio del nodo con downtime di circa 1 minuto
+- Verifica post-manutenzione: VM/CT funzionanti e servizi esposti raggiungibili
+
 ## 2026-09-01
 
 - Verifica aggiornamenti: sistema già allineato, nessun aggiornamento o pulizia necessario

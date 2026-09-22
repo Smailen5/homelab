@@ -1,5 +1,18 @@
 # Changelog — wordpress
 
+## 2026-09-22
+
+- Aggiornamento sistema: `tzdata` 2026c
+- Ripristinato l'accesso SSH dalla workstation: sulla macchina mancava la chiave pubblica autorizzata
+- Pulizia sistema (`apt autoremove` e `apt clean`): nessun pacchetto da rimuovere
+- Verifica post-manutenzione: `systemctl --failed` pulito
+
+## 2026-09-08
+
+- Verifica aggiornamenti: sistema già allineato, nessun aggiornamento necessario
+- Pulizia sistema (`apt clean` e `apt autoremove`)
+- Riavvio del nodo monday con downtime di circa 1 minuto
+
 ## 2026-09-01
 
 - Verifica aggiornamenti: sistema già allineato, nessun aggiornamento o pulizia necessario
