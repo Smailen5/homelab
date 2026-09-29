@@ -1,5 +1,11 @@
 # Changelog - monday
 
+## 2026-09-29
+
+- Aggiornamento sistema: `pve-manager` 9.2.21, `qemu-server` 9.2.10, `pve-docs` 9.2.13, `libpve-storage-perl` 9.1.11 e `rsync` (aggiornamento di sicurezza)
+- Installato `nvme-cli` come strumento di diagnostica NVMe, durante l'analisi del warning `smartd` sul disco di sistema → [caso 0001](../docs/casi/0001-warning-smartd-selftest-log-nvme.md)
+- Verifica post-manutenzione: `systemctl --failed` pulito, VM/CT funzionanti e servizi esposti raggiungibili
+
 ## 2026-09-22
 
 - Aggiornamento Proxmox: 88 pacchetti (`pve-manager` 9.2.20, `qemu-server` 9.2.8, `pve-firewall` 6.0.6, suite Ceph 19.2.6-pve4) e kernel `7.0.14-19`
