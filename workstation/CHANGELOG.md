@@ -1,5 +1,9 @@
 # Changelog - workstation
 
+## 2026-09-29
+
+- Aggiornamento sistema: 6 pacchetti (`apparmor`, `containerd.io` 2.3.6, `libaudit`, `libpciaccess`)
+
 ## 2026-09-22
 
 - Aggiornamento sistema: 22 pacchetti, con la toolchain Docker a `docker-ce` 29.8.1, `containerd.io` 2.3.5 e `docker-buildx-plugin` 0.37.1

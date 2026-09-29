@@ -1,5 +1,12 @@
 # Changelog - portfolio
 
+## 2026-09-29
+
+- Aggiornamento sistema: `containerd.io` 2.3.6 e kernel `6.12.111-1`
+- Rimozione vecchio kernel `6.12.101` (~111 MB liberati)
+- Riavvio programmato per il 2026-09-30 alle 03:00, per non togliere il sito durante il giorno
+- Verifica post-manutenzione: `systemctl --failed` pulito e servizi esposti raggiungibili
+
 ## 2026-09-22
 
 - Aggiornamento sistema: 44 pacchetti (base di sistema, Perl/Python, BIND9, curl, toolchain Docker)

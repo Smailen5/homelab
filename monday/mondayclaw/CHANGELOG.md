@@ -1,5 +1,14 @@
 # Changelog - mondayclaw
 
+## 2026-09-29
+
+- Aggiornamento sistema: kernel `6.12.111-1`
+- Rimozione vecchio kernel `6.12.101` (~111 MB liberati)
+- Gateway OpenClaw aggiornato da `2026.9.4` a `2026.9.6` con installazione manuale del pacchetto, per bypassare l'updater difettoso → [caso 0002](../../docs/casi/0002-openclaw-update-global-install-failed.md)
+- Rettifica del 22/09: la causa del fallimento non era npm 11.19.0 ma un difetto dell'updater installato
+- Riavvio programmato per il 2026-09-30 alle 03:00, per applicare il nuovo kernel
+- Verifica post-manutenzione: `systemctl --failed` pulito e servizi raggiungibili
+
 ## 2026-09-22
 
 - Aggiornamento sistema: 48 pacchetti, incluso Node.js 24.21.0

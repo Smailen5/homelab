@@ -1,5 +1,10 @@
 # Changelog — pbs (yesterday)
 
+## 2026-09-29
+
+- Nessun aggiornamento: controllo di funzionamento e verifica del kernel installato
+- Verifica post-manutenzione: `systemctl --failed` pulito e servizi PBS attivi
+
 ## 2026-09-22
 
 - Aggiornamento sistema: 59 pacchetti, Proxmox Backup Server 4.2.6 e kernel `7.0.14-19`

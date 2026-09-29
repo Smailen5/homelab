@@ -1,5 +1,14 @@
 # Changelog - gateway
 
+## 2026-09-29
+
+- Aggiornamento sistema: `containerd.io` 2.3.6 e kernel `6.12.111-1`
+- Rimozione vecchio kernel `6.12.101` (~111 MB liberati)
+- Riavvio immediato invece che programmato, con downtime di poco superiore al minuto
+- Aggiornamento immagini Docker (`docker compose pull` e `up -d`): nginx-proxy-manager e cloudflared
+- Pulizia immagini Docker (`docker image prune -f`, 1,88 GB recuperati)
+- Verifica post-manutenzione: `systemctl --failed` pulito e servizi esposti raggiungibili
+
 ## 2026-09-22
 
 - Aggiornamento sistema: 52 pacchetti (base di sistema, Perl/Python, GnuPG, BIND9, curl, toolchain Docker)
